@@ -3,14 +3,12 @@
     "description": "Knihovna pro skloňování českých jmen do 5. pádu pro účely generování oslovení.",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Petr Joachim",
-            "email": "petr@joachim.cz"
-        }
-    ],
+    "authors": [{
+        "name": "Jiří Žižka",
+        "email": "jiri.zizka@funfirst.cz"
+    }],
     "require": {
-        "php": "^5.5 || ^7.0"
+        "php": "^5.5 || ^7.0 || ^8.0"
     },
     "autoload": {
         "psr-4": {

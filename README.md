@@ -3,11 +3,13 @@ Vokativ
 
 * Oslovte své uživatele správně! *
 
+Forknuto originálně z bigit/vokativ, kvůli podpoře PHP 8 a menším upravám.
+
 
 Instalace
 =========
 
-    $ composer require bigit/vokativ
+    $ composer require funfirst/vokativ
 
 Podporované verze PHP 5.6+
 
