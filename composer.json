@@ -1,5 +1,5 @@
 {
-    "name": "bigit/vokativ",
+    "name": "funfirst/vokativ",
     "description": "Knihovna pro skloňování českých jmen do 5. pádu pro účely generování oslovení.",
     "type": "library",
     "license": "MIT",
